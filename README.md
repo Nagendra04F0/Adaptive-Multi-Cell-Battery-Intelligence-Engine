@@ -1,1 +1,1 @@
-# Adaptive-Multi-Cell-Battery-Intelligence-Engine
+Learn to Build real time EV battery management system
